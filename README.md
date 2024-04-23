@@ -1,3 +1,3 @@
 # Sink - Universal Clipboard
 
-Use (Sink Server)[https://sink.aryamaan.xyz] to copy/paste.
+Use ![Sink Server](https://sink.aryamaan.xyz) to copy/paste.
